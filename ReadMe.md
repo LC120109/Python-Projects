@@ -29,3 +29,9 @@ In this repo, you can see all my personal Python projects while I keep learning 
 |01| [Countdown Timer](./Projects/Utility/CountDownTimer.py) 
 |02| [Dice](./Projects/Utility/Dice.py) 
 |03| [Contact Book (not finished)](./Projects/Utility/ContactBook.py) 
+
+## Numpy Learning (Tutorial by NeuralNine on Youtube)
+| # |    Title    |
+|---| ----------- |
+|01| [Numpy Arrays](./Projects/Numpy_Learning/01NumpyArrays.py) 
+|02| [Numpy Data Types (not finished)](./Projects/Numpy_Learning/02NumpyDataTypes.py) 
