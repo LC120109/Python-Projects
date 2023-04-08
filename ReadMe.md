@@ -9,7 +9,7 @@ In this repo, you can see all my personal Python projects while I keep learning 
 |---| ----------- |
 |01| [Annoying While Loop](./Projects/Basics/AnnoyingWhileLoop.py) 
 |02| [Restaurant Reservation](./Projects/Basics/RestaurantInput.py) 
-|03| [Abcd Call Stack](./Projects/AbcdCallStack.py)
+|03| [Abcd Call Stack](./Projects/Basics/AbcdCallStack.py)
 
 
 ## Games
