@@ -9,7 +9,7 @@ losses = 0
 while True:
     print("%s Wins, %s Losses, %s Draws" % (wins, losses, draws))
     while True:
-        playerMove = input("Enter your move (Rock, Paper Scissors or quit) ")
+        playerMove = input("Enter your move (Rock, Paper, Scissors or quit) ")
         if playerMove == "quit" or playerMove == "Quit":
             sys.exit()
         if playerMove == "Rock" or playerMove == "Paper" or playerMove == "Scissors" or playerMove == "rock" or playerMove == "scissors" or playerMove == "paper":
