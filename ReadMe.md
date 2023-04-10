@@ -34,4 +34,14 @@ In this repo, you can see all my personal Python projects while I keep learning 
 | # |    Title    |
 |---| ----------- |
 |01| [Numpy Arrays](./Projects/Numpy_Learning/01NumpyArrays.py) 
-|02| [Numpy Data Types (not finished)](./Projects/Numpy_Learning/02NumpyDataTypes.py) 
+|02| [Numpy Data Types](./Projects/Numpy_Learning/02NumpyDataTypes.py)
+|03| [Filling Arrays](./Projects/Numpy_Learning/03FillingArrays.py) 
+|04| [NaN & Inf](./Projects/Numpy_Learning/04NaN&Inf.py) 
+|05| [Mathematical Operations](./Projects/Numpy_Learning/05Math.py) 
+|06| [Array Methods](./Projects/Numpy_Learning/06ArrayMethods.py) 
+|07| [Structuring Methods](./Projects/Numpy_Learning/07StructuringMethods.py) 
+|08| [Concatenating, Stacking, Splitting](./Projects/Numpy_Learning/08ConcatenatingStackingSplitting.py) 
+|09| [Aggregate Functions](./Projects/Numpy_Learning/09AggregateFunctions.py) 
+|10| [Numpy Random](./Projects/Numpy_Learning/10NumpyRandom.py) 
+|11| [Exporting & Importing](./Projects/Numpy_Learning/11ExportingImporting.py) 
+ 
