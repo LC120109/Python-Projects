@@ -44,4 +44,17 @@ In this repo, you can see all my personal Python projects while I keep learning 
 |09| [Aggregate Functions](./Projects/Numpy_Learning/09AggregateFunctions.py) 
 |10| [Numpy Random](./Projects/Numpy_Learning/10NumpyRandom.py) 
 |11| [Exporting & Importing](./Projects/Numpy_Learning/11ExportingImporting.py) 
- 
+
+## Pandas Learning (Tutorial by Keith Galli on Youtube)
+| # |    Title    |
+|---| ----------- |
+|01| [Loading Data](./Projects/Pandas_Learning/01LoadingData.py) 
+|02| [Reading Data](./Projects/Pandas_Learning/02ReadingData.py) 
+|03| [Sorting & Describing](./Projects/Pandas_Learning/03SortingDescribing.py)  
+|04| [Changing Data & Saving](./Projects/Pandas_Learning/04ChangingData&Saving.py) 
+|05| [Filtering Data](./Projects/Pandas_Learning/05FilteringData.py) 
+|06| [Regex Filters](./Projects/Pandas_Learning/06RegexFilters.py) 
+|07| [Conditional Changes](./Projects/Pandas_Learning/07ConditionalChanges.py) 
+|08| [Aggregate Statistics](./Projects/Pandas_Learning/08AggregateStatistics.py) 
+|09| [Working With A Lot Of Data](./Projects/Pandas_Learning/09WOrkingWithALot.py) 
+
